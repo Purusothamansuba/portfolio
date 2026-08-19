@@ -64,6 +64,13 @@ export const portfolioData = {
 
   achievements: [
     {
+      title: "summer of codefeast 2.0 hackathon",
+      metric: "finalist in SOCF hackathon",
+      desc: "SOCF is a national level hacthon Im was able to go to the final round with my team",
+      link: "",
+      icon: "Award",
+    }
+    {
       title: "LeetCode Knight Badge",
       metric: "Contest Rating: 1950+",
       desc: "Earned the prestigious Knight badge on LeetCode with 850+ algorithmic challenges solved across graph theory, dynamic programming, data structures, greedy algorithms, and other competitive programming topics.",
@@ -666,7 +673,7 @@ export const portfolioData = {
 
   experience: [
     {
-      role: "AI & Backend Software Engineer",
+      role: "AI & Backend Software Development",
       organization: "Projects & Open Source Development",
       period: "Present",
       type: "Software Engineering",
@@ -692,7 +699,7 @@ export const portfolioData = {
     },
 
     {
-      role: "Competitive Programmer & Algorithmic Problem Solver",
+      role: "Competitive Programmer & Algorithmic Problem Solving",
       organization: "LeetCode & Contests",
       period: "Active",
       type: "Algorithms & Systems",
